@@ -1,19 +1,17 @@
 parse_excel_in_html
 ===================
 
-Simple Sample for parsing html, get the urls for excel files, download them and parse the excel files.
+This is a Simple Sample for parsing html, get the urls for excel files, download them and parse the excel files.
+Please modify this program to use it in your code.
 
 You need to import several packages to run this program.
-> BeautifulSoup4
-> xlrd
+* BeautifulSoup4
+* xlrd
 
 The easiest way to install these packages is using pip install
-pip install beautifulsoup4
-pip install xlrd
 
-
-This program is a simple sample for parsing html and parsing excel files.
-Please modify this program to use at your environment.
+* pip install beautifulsoup4
+* pip install xlrd
 
 You can parse the html file of this link (http://www.e-stat.go.jp/SG1/estat/GL08020103.do?_toGL08020103_&listID=000001108886&disp=Other&requestSender=dsearch) which is unfortunately, Japanese. So it would be better you read the python code.
 
