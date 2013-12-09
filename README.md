@@ -15,3 +15,9 @@ pip install xlrd
 This program is a simple sample for parsing html and parsing excel files.
 Please modify this program to use at your environment.
 
+You can parse the html file of this link (http://www.e-stat.go.jp/SG1/estat/GL08020103.do?_toGL08020103_&listID=000001108886&disp=Other&requestSender=dsearch) which is unfortunately, Japanese. So it would be better you read the python code.
+
+usage: python parse_excel_in_html.py html_file_path html_downloaded_url
+example: python parse_excel_in_html.py  “OO.html”  “http://www.e-stat.go.jp/SG1/estat/GL08020103.do?_toGL08020103_&listID=000001108886&disp=Other&requestSender=dsearch”
+
+You need to double quote the html file path and the url.
