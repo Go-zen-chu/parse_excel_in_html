@@ -24,8 +24,8 @@ def excel_to_json(excel_file_path):
 	# 一つ目のシートだけをパース対象とする. (row, col) (行, 列)
 	sheet = wb.sheet_by_index(0)
 	json_data = {'goods': sub_whitespace_number(sheet.cell(0,0).value), 
-				'report_name':sheet.cell(1,0).value,
-				'extraInfo':sheet.cell(2,0).value,
+				'report_name': u'24年産水陸稲の時期別作柄及び収穫量（全国農業地域別・都道府県別）',
+				'extraInfo': u'水陸稲計',
 				'data' : [] }
 	max_col_idx = 3#sheet.ncols
 	max_row_idx = sheet.nrows
@@ -34,7 +34,7 @@ def excel_to_json(excel_file_path):
 	area_list = []
 	for row_idx in range(11, max_row_idx):
 		area = sheet.cell(row_idx, 0).value
-		if area == '' or ' ' in area or '(' in area or area in area_list:
+		if area == '' or u'　' in area or u'(' in area or area in area_list:
 			continue
 		else:
 			json_data['data'].append({'area': sheet.cell(row_idx, 0).value, 
