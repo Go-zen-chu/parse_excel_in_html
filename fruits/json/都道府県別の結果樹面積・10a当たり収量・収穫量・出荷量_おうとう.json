@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "area": "北海道", 
+      "fruitingTreeArea": {
+        "unit": "ha", 
+        "value": 512.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 1430.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 1540.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 301.0
+      }
+    }, 
+    {
+      "area": "山形", 
+      "fruitingTreeArea": {
+        "unit": "ha", 
+        "value": 2910.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 11700.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 13200.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 452.0
+      }
+    }
+  ], 
+  "goods": "おうとう", 
+  "report_genre": "都道府県別の結果樹面積・10a当たり収量・収穫量・出荷量"
+}

@@ -1,0 +1,215 @@
+{
+  "data": [
+    {
+      "area": "全国", 
+      "plantedArea": {
+        "unit": "ha", 
+        "value": 8810.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 142600.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 167500.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 1900.0
+      }
+    }, 
+    {
+      "area": "北海道", 
+      "plantedArea": {
+        "unit": "ha", 
+        "value": 838.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 17100.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 18300.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 2180.0
+      }
+    }, 
+    {
+      "area": "北海道", 
+      "plantedArea": {
+        "unit": "ha", 
+        "value": 838.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 17100.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 18300.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 2180.0
+      }
+    }, 
+    {
+      "area": "青森", 
+      "plantedArea": {
+        "unit": "ha", 
+        "value": 2350.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 52700.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 55900.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 2380.0
+      }
+    }, 
+    {
+      "area": "岩手", 
+      "plantedArea": {
+        "unit": "ha", 
+        "value": 113.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 701.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 1420.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 1260.0
+      }
+    }, 
+    {
+      "area": "茨城", 
+      "plantedArea": {
+        "unit": "ha", 
+        "value": 1130.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 19800.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 23300.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 2060.0
+      }
+    }, 
+    {
+      "area": "群馬", 
+      "plantedArea": {
+        "unit": "ha", 
+        "value": 494.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 6770.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 8050.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 1630.0
+      }
+    }, 
+    {
+      "area": "千葉", 
+      "plantedArea": {
+        "unit": "ha", 
+        "value": 472.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 8440.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 9490.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 2010.0
+      }
+    }, 
+    {
+      "area": "熊本", 
+      "plantedArea": {
+        "unit": "ha", 
+        "value": 297.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 2990.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 3590.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 1210.0
+      }
+    }, 
+    {
+      "area": "宮崎", 
+      "plantedArea": {
+        "unit": "ha", 
+        "value": 658.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 9550.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 10500.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 1600.0
+      }
+    }, 
+    {
+      "area": "鹿児島", 
+      "plantedArea": {
+        "unit": "ha", 
+        "value": 361.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 5360.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 6060.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 1680.0
+      }
+    }
+  ], 
+  "goods": "ごぼう", 
+  "report_genre": "都道府県別の作付面積、10ａ当たり収量、収穫量及び出荷量 "
+}

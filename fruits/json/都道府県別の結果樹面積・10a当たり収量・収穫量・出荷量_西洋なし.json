@@ -1,0 +1,101 @@
+{
+  "data": [
+    {
+      "area": "青森", 
+      "fruitingTreeArea": {
+        "unit": "ha", 
+        "value": 139.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 1320.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 1670.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 1200.0
+      }
+    }, 
+    {
+      "area": "山形", 
+      "fruitingTreeArea": {
+        "unit": "ha", 
+        "value": 915.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 12600.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 14300.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 1560.0
+      }
+    }, 
+    {
+      "area": "福島", 
+      "fruitingTreeArea": {
+        "unit": "ha", 
+        "value": 42.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 582.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 659.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 1570.0
+      }
+    }, 
+    {
+      "area": "新潟", 
+      "fruitingTreeArea": {
+        "unit": "ha", 
+        "value": 105.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 1630.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 1890.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 1800.0
+      }
+    }, 
+    {
+      "area": "長野", 
+      "fruitingTreeArea": {
+        "unit": "ha", 
+        "value": 105.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 1770.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 1950.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 1860.0
+      }
+    }
+  ], 
+  "goods": "西洋なし", 
+  "report_genre": "都道府県別の結果樹面積・10a当たり収量・収穫量・出荷量"
+}

@@ -1,0 +1,215 @@
+{
+  "data": [
+    {
+      "area": "山形", 
+      "fruitingTreeArea": {
+        "unit": "ha", 
+        "value": 585.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 7090.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 7840.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 1340.0
+      }
+    }, 
+    {
+      "area": "福島", 
+      "fruitingTreeArea": {
+        "unit": "ha", 
+        "value": 1560.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 25200.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 27500.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 1760.0
+      }
+    }, 
+    {
+      "area": "新潟", 
+      "fruitingTreeArea": {
+        "unit": "ha", 
+        "value": 237.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 2300.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 2680.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 1130.0
+      }
+    }, 
+    {
+      "area": "山梨", 
+      "fruitingTreeArea": {
+        "unit": "ha", 
+        "value": 3270.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 42200.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 44800.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 1370.0
+      }
+    }, 
+    {
+      "area": "長野", 
+      "fruitingTreeArea": {
+        "unit": "ha", 
+        "value": 1090.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 17100.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 18500.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 1700.0
+      }
+    }, 
+    {
+      "area": "岐阜", 
+      "fruitingTreeArea": {
+        "unit": "ha", 
+        "value": 79.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 777.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 861.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 1090.0
+      }
+    }, 
+    {
+      "area": "愛知", 
+      "fruitingTreeArea": {
+        "unit": "ha", 
+        "value": 208.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 1770.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 1940.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 933.0
+      }
+    }, 
+    {
+      "area": "和歌山", 
+      "fruitingTreeArea": {
+        "unit": "ha", 
+        "value": 774.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 9140.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 10100.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 1300.0
+      }
+    }, 
+    {
+      "area": "岡山", 
+      "fruitingTreeArea": {
+        "unit": "ha", 
+        "value": 641.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 7270.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 8080.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 1260.0
+      }
+    }, 
+    {
+      "area": "香川", 
+      "fruitingTreeArea": {
+        "unit": "ha", 
+        "value": 206.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 1340.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 1560.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 757.0
+      }
+    }, 
+    {
+      "area": "愛媛", 
+      "fruitingTreeArea": {
+        "unit": "ha", 
+        "value": 95.0
+      }, 
+      "shipment": {
+        "unit": "t", 
+        "value": 495.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 565.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 595.0
+      }
+    }
+  ], 
+  "goods": "もも", 
+  "report_genre": "都道府県別の結果樹面積・10a当たり収量・収穫量・出荷量"
+}
