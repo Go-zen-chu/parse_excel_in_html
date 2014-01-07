@@ -4,121 +4,121 @@
       "area": "全国", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 269500.0
+        "value": 209200.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 1030000.0
+        "value": 410.0
       }
     }, 
     {
       "area": "北海道", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 121200.0
+        "value": 119200.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 592800.0
+        "value": 492.0
       }
     }, 
     {
       "area": "都府県", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 148400.0
+        "value": 90100.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 437400.0
+        "value": 302.0
       }
     }, 
     {
       "area": "東北", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 8490.0
+        "value": 7520.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 16600.0
+        "value": 190.0
       }
     }, 
     {
       "area": "北陸", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 9940.0
+        "value": 163.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 30800.0
+        "value": 157.0
       }
     }, 
     {
       "area": "関東・東山", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 39900.0
+        "value": 21500.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 126500.0
+        "value": 346.0
       }
     }, 
     {
       "area": "東海", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 15400.0
+        "value": 14800.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 45900.0
+        "value": 299.0
       }
     }, 
     {
       "area": "近畿", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 10200.0
+        "value": 9060.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 26700.0
+        "value": 266.0
       }
     }, 
     {
       "area": "中国", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 4690.0
+        "value": 1550.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 12800.0
+        "value": 230.0
       }
     }, 
     {
       "area": "四国", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 4390.0
+        "value": 1800.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 12000.0
+        "value": 280.0
       }
     }, 
     {
       "area": "九州", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 55400.0
+        "value": 33700.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 165900.0
+        "value": 314.0
       }
     }, 
     {
@@ -129,18 +129,18 @@
       }, 
       "yield": {
         "unit": "t", 
-        "value": 16.0
+        "value": 144.0
       }
     }, 
     {
       "area": "北海道", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 121200.0
+        "value": 119200.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 592800.0
+        "value": 492.0
       }
     }, 
     {
@@ -151,271 +151,271 @@
       }, 
       "yield": {
         "unit": "t", 
-        "value": 2210.0
+        "value": 137.0
       }
     }, 
     {
       "area": "岩手", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 3910.0
+        "value": 3840.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 6280.0
+        "value": 160.0
       }
     }, 
     {
       "area": "宮城", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 2160.0
+        "value": 1290.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 6650.0
+        "value": 347.0
       }
     }, 
     {
       "area": "秋田", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 405.0
+        "value": 400.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 756.0
+        "value": 188.0
       }
     }, 
     {
       "area": "山形", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 138.0
+        "value": 117.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 246.0
+        "value": 181.0
       }
     }, 
     {
       "area": "福島", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 270.0
+        "value": 268.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 481.0
+        "value": 177.0
       }
     }, 
     {
       "area": "茨城", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 8130.0
+        "value": 4710.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 18400.0
+        "value": 257.0
       }
     }, 
     {
       "area": "栃木", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 14100.0
+        "value": 2450.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 42600.0
+        "value": 333.0
       }
     }, 
     {
       "area": "群馬", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 7810.0
+        "value": 5890.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 32600.0
+        "value": 451.0
       }
     }, 
     {
       "area": "埼玉", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 6390.0
+        "value": 5500.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 20900.0
+        "value": 320.0
       }
     }, 
     {
       "area": "千葉", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 739.0
+        "value": 689.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 1620.0
+        "value": 222.0
       }
     }, 
     {
       "area": "東京", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 28.0
+        "value": 27.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 86.0
+        "value": 312.0
       }
     }, 
     {
       "area": "神奈川", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 43.0
+        "value": 39.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 112.0
+        "value": 259.0
       }
     }, 
     {
       "area": "新潟", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 246.0
+        "value": 11.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 508.0
+        "value": 218.0
       }
     }, 
     {
       "area": "富山", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 3250.0
+        "value": 28.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 11200.0
+        "value": 291.0
       }
     }, 
     {
       "area": "石川", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 1370.0
+        "value": 117.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 4210.0
+        "value": 126.0
       }
     }, 
     {
       "area": "福井", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 5080.0
+        "value": 7.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 14900.0
+        "value": 54.0
       }
     }, 
     {
       "area": "山梨", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 81.0
+        "value": 55.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 267.0
+        "value": 336.0
       }
     }, 
     {
       "area": "長野", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 2570.0
+        "value": 2110.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 9930.0
+        "value": 382.0
       }
     }, 
     {
       "area": "岐阜", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 3240.0
+        "value": 3040.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 9950.0
+        "value": 314.0
       }
     }, 
     {
       "area": "静岡", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 794.0
+        "value": 777.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 1430.0
+        "value": 181.0
       }
     }, 
     {
       "area": "愛知", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 5320.0
+        "value": 5240.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 20000.0
+        "value": 375.0
       }
     }, 
     {
       "area": "三重", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 6050.0
+        "value": 5760.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 14500.0
+        "value": 236.0
       }
     }, 
     {
       "area": "滋賀", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 7340.0
+        "value": 6800.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 21200.0
+        "value": 288.0
       }
     }, 
     {
       "area": "京都", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": "x"
+        "value": 160.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": "x"
+        "value": 125.0
       }
     }, 
     {
@@ -433,22 +433,22 @@
       "area": "兵庫", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 2450.0
+        "value": 1990.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 4890.0
+        "value": 202.0
       }
     }, 
     {
       "area": "奈良", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": "x"
+        "value": 110.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": "x"
+        "value": 207.0
       }
     }, 
     {
@@ -459,183 +459,183 @@
       }, 
       "yield": {
         "unit": "t", 
-        "value": 5.0
+        "value": 100.0
       }
     }, 
     {
       "area": "鳥取", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": "x"
+        "value": 10.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": "x"
+        "value": 230.0
       }
     }, 
     {
       "area": "島根", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": "x"
+        "value": 115.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": "x"
+        "value": 150.0
       }
     }, 
     {
       "area": "岡山", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 2460.0
+        "value": 482.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 8040.0
+        "value": 294.0
       }
     }, 
     {
       "area": "広島", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 245.0
+        "value": 183.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 454.0
+        "value": 184.0
       }
     }, 
     {
       "area": "山口", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 1190.0
+        "value": 756.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 2230.0
+        "value": 213.0
       }
     }, 
     {
       "area": "徳島", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 129.0
+        "value": 75.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 337.0
+        "value": 287.0
       }
     }, 
     {
       "area": "香川", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 2440.0
+        "value": 1530.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 6820.0
+        "value": 278.0
       }
     }, 
     {
       "area": "愛媛", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 1810.0
+        "value": 193.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 4820.0
+        "value": 293.0
       }
     }, 
     {
       "area": "高知", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": "x"
+        "value": 7.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": "x"
+        "value": 186.0
       }
     }, 
     {
       "area": "福岡", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 21000.0
+        "value": 15000.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 67000.0
+        "value": 333.0
       }
     }, 
     {
       "area": "佐賀", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 21100.0
+        "value": 10500.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 66900.0
+        "value": 330.0
       }
     }, 
     {
       "area": "長崎", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 1810.0
+        "value": 694.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 4250.0
+        "value": 249.0
       }
     }, 
     {
       "area": "熊本", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 6560.0
+        "value": 4890.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 18000.0
+        "value": 282.0
       }
     }, 
     {
       "area": "大分", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 4590.0
+        "value": 2540.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 9220.0
+        "value": 215.0
       }
     }, 
     {
       "area": "宮崎", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 116.0
+        "value": 52.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 220.0
+        "value": 171.0
       }
     }, 
     {
       "area": "鹿児島", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": "x"
+        "value": 48.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": "x"
+        "value": 157.0
       }
     }, 
     {
@@ -646,44 +646,46 @@
       }, 
       "yield": {
         "unit": "t", 
-        "value": 16.0
+        "value": 144.0
       }
     }, 
     {
       "area": "関東農政局", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 40700.0
+        "value": 22200.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 127900.0
+        "value": 341.0
       }
     }, 
     {
       "area": "東海農政局", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 14600.0
+        "value": 14000.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 44500.0
+        "value": 306.0
       }
     }, 
     {
       "area": "中国四国農政局", 
       "areaUnderCultivation": {
         "unit": "ha", 
-        "value": 9080.0
+        "value": 3350.0
       }, 
       "yield": {
         "unit": "t", 
-        "value": 24900.0
+        "value": 257.0
       }
     }
   ], 
-  "extraInfo": "(1)麦計", 
-  "goods": "麦類", 
-  "report_genre": "24年産麦類（子実用）の収穫量（全国農業地域別・都道府県別）"
+  "extraInfo": "小麦", 
+  "goods": "小麦", 
+  "report_genre": [
+    "24年産小麦（子実用）の収穫量（全国農業地域別・都道府県別）"
+  ]
 }

@@ -1,0 +1,939 @@
+{
+  "data": [
+    {
+      "area": "全国", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 131100.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 235900.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 180.0
+      }
+    }, 
+    {
+      "area": "北海道", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 27200.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 68000.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 250.0
+      }
+    }, 
+    {
+      "area": "都府県", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 103900.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 167900.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 162.0
+      }
+    }, 
+    {
+      "area": "東北", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 32700.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 50000.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 153.0
+      }
+    }, 
+    {
+      "area": "北陸", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 13100.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 23300.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 178.0
+      }
+    }, 
+    {
+      "area": "関東・東山", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 11100.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 17600.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 159.0
+      }
+    }, 
+    {
+      "area": "東海", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 11500.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 16100.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 140.0
+      }
+    }, 
+    {
+      "area": "近畿", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 9100.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 12600.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 138.0
+      }
+    }, 
+    {
+      "area": "中国", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 4930.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 7380.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 150.0
+      }
+    }, 
+    {
+      "area": "四国", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 634.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 856.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 135.0
+      }
+    }, 
+    {
+      "area": "九州", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 20900.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 40100.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 192.0
+      }
+    }, 
+    {
+      "area": "沖縄", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 4.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 1.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 15.0
+      }
+    }, 
+    {
+      "area": "北海道", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 27200.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 68000.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 250.0
+      }
+    }, 
+    {
+      "area": "青森", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 4320.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 6090.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 141.0
+      }
+    }, 
+    {
+      "area": "岩手", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 4150.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 5020.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 121.0
+      }
+    }, 
+    {
+      "area": "宮城", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 9040.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 18300.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 202.0
+      }
+    }, 
+    {
+      "area": "秋田", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 7620.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 9450.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 124.0
+      }
+    }, 
+    {
+      "area": "山形", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 5640.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 8660.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 154.0
+      }
+    }, 
+    {
+      "area": "福島", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 1930.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 2470.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 128.0
+      }
+    }, 
+    {
+      "area": "茨城", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 4080.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 6610.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 162.0
+      }
+    }, 
+    {
+      "area": "栃木", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 2710.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 4770.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 176.0
+      }
+    }, 
+    {
+      "area": "群馬", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 357.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 618.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 173.0
+      }
+    }, 
+    {
+      "area": "埼玉", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 647.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 718.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 111.0
+      }
+    }, 
+    {
+      "area": "千葉", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 813.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 1060.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 130.0
+      }
+    }, 
+    {
+      "area": "東京", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 2.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 3.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 125.0
+      }
+    }, 
+    {
+      "area": "神奈川", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 36.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 58.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 162.0
+      }
+    }, 
+    {
+      "area": "新潟", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 5630.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 10300.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 183.0
+      }
+    }, 
+    {
+      "area": "富山", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 4670.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 8550.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 183.0
+      }
+    }, 
+    {
+      "area": "石川", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 1610.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 2500.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 155.0
+      }
+    }, 
+    {
+      "area": "福井", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 1150.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 1990.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 173.0
+      }
+    }, 
+    {
+      "area": "山梨", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 235.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 251.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 107.0
+      }
+    }, 
+    {
+      "area": "長野", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 2200.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 3540.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 161.0
+      }
+    }, 
+    {
+      "area": "岐阜", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 2780.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 4360.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 157.0
+      }
+    }, 
+    {
+      "area": "静岡", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 386.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 413.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 107.0
+      }
+    }, 
+    {
+      "area": "愛知", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 4260.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 6430.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 151.0
+      }
+    }, 
+    {
+      "area": "三重", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 4120.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 4860.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 118.0
+      }
+    }, 
+    {
+      "area": "滋賀", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 5700.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 8610.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 151.0
+      }
+    }, 
+    {
+      "area": "京都", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 451.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 600.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 133.0
+      }
+    }, 
+    {
+      "area": "大阪", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 19.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 25.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 133.0
+      }
+    }, 
+    {
+      "area": "兵庫", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 2700.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 3020.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 112.0
+      }
+    }, 
+    {
+      "area": "奈良", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 192.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 294.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 153.0
+      }
+    }, 
+    {
+      "area": "和歌山", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 36.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 42.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 116.0
+      }
+    }, 
+    {
+      "area": "鳥取", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 749.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 1450.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 194.0
+      }
+    }, 
+    {
+      "area": "島根", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 963.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 1550.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 161.0
+      }
+    }, 
+    {
+      "area": "岡山", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 1750.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 2310.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 132.0
+      }
+    }, 
+    {
+      "area": "広島", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 701.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 1070.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 153.0
+      }
+    }, 
+    {
+      "area": "山口", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 767.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 997.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 130.0
+      }
+    }, 
+    {
+      "area": "徳島", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 72.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 80.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 111.0
+      }
+    }, 
+    {
+      "area": "香川", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 107.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 126.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 118.0
+      }
+    }, 
+    {
+      "area": "愛媛", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 324.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 554.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 171.0
+      }
+    }, 
+    {
+      "area": "高知", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 131.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 96.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 73.0
+      }
+    }, 
+    {
+      "area": "福岡", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 7830.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 15800.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 202.0
+      }
+    }, 
+    {
+      "area": "佐賀", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 8210.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 17200.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 210.0
+      }
+    }, 
+    {
+      "area": "長崎", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 472.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 618.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 131.0
+      }
+    }, 
+    {
+      "area": "熊本", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 2150.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 3810.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 177.0
+      }
+    }, 
+    {
+      "area": "大分", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 1670.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 1950.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 117.0
+      }
+    }, 
+    {
+      "area": "宮崎", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 293.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 337.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 115.0
+      }
+    }, 
+    {
+      "area": "鹿児島", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 287.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 364.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 127.0
+      }
+    }, 
+    {
+      "area": "沖縄", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 4.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 1.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 15.0
+      }
+    }, 
+    {
+      "area": "関東農政局", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 11500.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 18000.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 157.0
+      }
+    }, 
+    {
+      "area": "東海農政局", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 11200.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 15700.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 140.0
+      }
+    }, 
+    {
+      "area": "中国四国農政局", 
+      "areaUnderCultivation": {
+        "unit": "ha", 
+        "value": 5560.0
+      }, 
+      "yield": {
+        "unit": "t", 
+        "value": 8230.0
+      }, 
+      "yield_per_10a": {
+        "unit": "kg", 
+        "value": 148.0
+      }
+    }
+  ], 
+  "extraInfo": "大豆", 
+  "goods": "大豆", 
+  "report_genre": [
+    "24年産豆類（乾燥子実）及びそばの収穫量（全国農業地域別・都道府県別）"
+  ]
+}

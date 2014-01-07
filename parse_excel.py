@@ -66,10 +66,10 @@ def excel_to_json(genre, excel_dir_path):
 			# 解析を始める行
 			start_row = 4
 
-			if genre in ['rice','wheat','soybean']:
-				json_data['goods'] = rm_unneed_char(sheet.cell(0,0).value)
+			if genre in ['rice','wheat','soybean', 'soba']:
+				json_data['goods'] = rm_unneed_char(sheet.cell(2,0).value)
 				json_data['report_genre'] = crop_report_genre(sheet.cell(1,0).value),
-				json_data['extraInfo'] = rm_unneed_char(sheet.cell(2,0).value)
+				json_data['extraInfo'] = rm_unneed_char(sheet.cell(0,0).value)
 
 				while sheet.cell(start_row, 0).value != u'全国':
 					start_row += 1
@@ -89,7 +89,7 @@ def excel_to_json(genre, excel_dir_path):
 														'areaUnderCultivation': {'value':sheet.cell(row_idx, 1).value,'unit':'ha'}, 
 														'yield': {'value':sheet.cell(row_idx, 2).value, 'unit':'t'}
 							})
-						elif genre == 'soybean':
+						elif genre in ['soybean', 'soba']:
 							json_data['data'].append({	'area': area,
 														'areaUnderCultivation': {'value':sheet.cell(row_idx, 1).value,'unit':'ha'},
 														'yield_per_10a': {'value':sheet.cell(row_idx, 2).value, 'unit':'kg'},
@@ -143,16 +143,21 @@ def excel_to_json(genre, excel_dir_path):
 
 			with codecs.open(csv_file_path, 'w', 'utf-8') as csv_file:
 				for one_area_dict in json_data['data']:
-					csv_file.write(', '.join([	json_data['goods'], one_area_dict['area'], 
-												str(one_area_dict['yield']['value']), str(one_area_dict['shipment']['value']), '2012'
-											]) + '\n')
+					if 'shipment' not in one_area_dict:
+						csv_file.write(', '.join([json_data['goods'], one_area_dict['area'], 
+													str(one_area_dict['yield']['value']), '', '2012'
+												]) + '\n')
+					else:
+						csv_file.write(', '.join([json_data['goods'], one_area_dict['area'], 
+													str(one_area_dict['yield']['value']), str(one_area_dict['shipment']['value']), '2012'
+												]) + '\n')
 
 
 if __name__ == '__main__':
 	args_len = len(sys.argv) 
 	if args_len != 3:
 		print 'usage: python parse_excel.py genre excel_dir_path'
-		print 'genre: rice, wheat, soybean, fruits, vegetable'
+		print 'genre: rice, wheat, soybean, soba, fruits, vegetable'
 	else:
 		genre = sys.argv[1]
 		excel_dir_path = sys.argv[2]
