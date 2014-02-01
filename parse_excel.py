@@ -67,9 +67,9 @@ def excel_to_json(genre, excel_dir_path):
 			start_row = 4
 
 			if genre in ['rice','wheat','soybean', 'soba']:
-				json_data['goods'] = rm_unneed_char(sheet.cell(2,0).value)
+				json_data['goods'] = rm_unneed_char(sheet.cell(0,0).value if genre == 'rice' else sheet.cell(2,0).value )
 				json_data['report_genre'] = crop_report_genre(sheet.cell(1,0).value),
-				json_data['extraInfo'] = rm_unneed_char(sheet.cell(0,0).value)
+				json_data['extraInfo'] = rm_unneed_char(sheet.cell(2,0).value if genre == 'rice' else sheet.cell(0,0).value )
 
 				while sheet.cell(start_row, 0).value != u'全国':
 					start_row += 1
@@ -142,15 +142,12 @@ def excel_to_json(genre, excel_dir_path):
 				json.dump(json_data, json_file, indent=2, sort_keys=True, ensure_ascii=False)
 
 			with codecs.open(csv_file_path, 'w', 'utf-8') as csv_file:
+				# 品目コード, 品目名, 産地, 生産量(t), 出荷量(t), データの年度, 元データURL, 流通量(t), 市場シェア(%)
 				for one_area_dict in json_data['data']:
 					if 'shipment' not in one_area_dict:
-						csv_file.write(', '.join([json_data['goods'], one_area_dict['area'], 
-													str(one_area_dict['yield']['value']), '', '2012'
-												]) + '\n')
+						csv_file.write(', '.join(['', json_data['goods'], one_area_dict['area'], str(one_area_dict['yield']['value']), '', '2012', '', '', ''])+'\n')
 					else:
-						csv_file.write(', '.join([json_data['goods'], one_area_dict['area'], 
-													str(one_area_dict['yield']['value']), str(one_area_dict['shipment']['value']), '2012'
-												]) + '\n')
+						csv_file.write(', '.join(['', json_data['goods'], one_area_dict['area'], str(one_area_dict['yield']['value']), str(one_area_dict['shipment']['value']), '2012', '', '', ''])+'\n')
 
 
 if __name__ == '__main__':
